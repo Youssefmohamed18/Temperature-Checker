@@ -9,7 +9,7 @@ A simple web app to display the current temperature based on the user’s input 
 
   
 ## 🌐 Live Demo
-https://youssefmohamed18.github.io/Temperature-Checker/
+[View on GitHub Pages](https://youssefmohamed18.github.io/Temperature-Checker)
 
 
 ## 🔍 Preview
